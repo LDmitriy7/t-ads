@@ -1,15 +1,15 @@
 {
-  "background_color": "purple",
-  "description": "Shows random fox pictures. Hey, at least it isn't cats.",
-  "display": "fullscreen",
+  "name": "T-ADS",
+  "start_url": ".",
+  "background_color": "white",
+  "theme_color": "white",
+  "description": "Telegram Ads",
+  "display": "standalone",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "100x100",
+      "src": "icon.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "name": "Awesome fox pictures",
-  "short_name": "Foxes",
-  "start_url": "/"
+  ]
 }
