@@ -10,6 +10,12 @@
       "src": "icon.png",
       "sizes": "512x512",
       "type": "image/png"
+    },
+    {
+      "src": "icon-square.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
